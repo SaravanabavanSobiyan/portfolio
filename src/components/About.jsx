@@ -11,15 +11,12 @@ function About() {
         </h2>
         <div className="grid md:grid-cols-2 gap-10 items-start">
           <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
-            I am a second-year Information Technology undergraduate at SLIIT Northern Uni, 
-            Sri Lanka, with completed second semester of the second year. With a passion for 
-            software engineering, enjoys building practical web and mobile applications that solve real-world problems.  
+            I am undergraduate  Information Technology student at SLIIT NORTHERN UNI, enjoys building practical web and mobile applications that solve real-world problems.  
           </p>
           <p className="text-slate-700 dark:text-slate-300 leading-relaxed">
             I have hands-on experience across the MERN stack, Java, PHP, and Android development, 
             and continuously improves my technical and soft skills through academic projects and 
-            self-learning. I am eager to contribute to a collaborative team as a 
-            software engineering or IT intern while expanding my knowledge of modern development practices.
+            self-learning. I am eager to contribute to a collaborative team as IT intern while expanding my knowledge of modern development practices.
           </p>
         </div>
       </div>
